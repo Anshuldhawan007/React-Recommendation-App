@@ -1,0 +1,16 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  body {
+    display: block;
+    background-color: antiquewhite;
+  }
+  
+  /* .App .info-card {
+    padding: "0.5rem";
+    outline: "inset";
+    margin: "1rem 0rem";
+  } */
+  
